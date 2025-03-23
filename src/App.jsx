@@ -21,7 +21,7 @@ pauseOnFocusLoss
 draggable
 pauseOnHover
 theme="light"
-transition={Bounce}
+
       />
 <Hero/>    </div>
   );
